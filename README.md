@@ -14,3 +14,5 @@
 * [DevOps лабы](./cloud_lab)
     * [Лабораторная работа 1 + задание со свёздочкой](./cloud_lab/lab_1/lab1.md)
     * [Лабораторная работа 2](./cloud_lab/lab_2/laba2.md)
+* [Аналитические лабы]
+    * [Лабораторная работа 1](./cloud_lab/AnalyticalTask1/analytics1.md)
