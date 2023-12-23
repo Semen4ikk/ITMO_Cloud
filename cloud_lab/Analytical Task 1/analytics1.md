@@ -45,6 +45,28 @@
 ```Amazon Redshift``` – полностью управляемый сервис, предназначенный для хранения данных, их анализа и выполнения сложных аналитических запросов. Этот сервис специализируется на больших объемах данных и позволяет повысить производительность во время работы с ними. 
 
 ```Amazon Route 53``` – это сервис, который позволяет управлять трафиком доменных имен и направлять его для приложений и внутренних ресурсов.   
+```Проведем анализ с сервисами Yandex.Cloud:```
+AmazonElastiCache - Yandex Managed Service for Redis
+
+AmazonES - Yandex Managed Service for Elasticsearch
+
+AmazonQLDB - Аналог Yandex.Cloud Неть
+
+awskms - Yandex Key Management Service
+
+CloudHSM - Аналог Yandex.Cloud Неть
+
+AmazonRekognition - Yandex Vision
+
+AmazonTextract - Yandex Vision
+
+AmazonLex - Yandex SpeechSense
+
+AWSCodePipeline - Аналог Yandex.Cloud Неть
+
+AmazonSES - Yandex Postbox
+
+AmazonSNS - Аналог Yandex.Cloud Неть
 
 ### Результат работы
 Результат нашей работы представлен в виде таблицы:
