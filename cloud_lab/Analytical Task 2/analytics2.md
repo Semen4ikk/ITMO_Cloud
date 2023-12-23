@@ -54,6 +54,37 @@
 
 ```Azure Virtual machines``` – это сервис, который позволяет создавать виртуальные машины в облаке. Сервис Azure VMs имеет быстрые виртуальные машины, которые способны подготавливать и масштабировать виртуальные машины пользователя в соответствии с вычислительными потребностями. Пользователь может выбирать из широкого спектра размеров и типов виртуальных машин в соответствии с требованиями приложения. Также виртуальные машины Azure поддерживают множество различным ОС. Сервис имеет множество возможностей управления виртуальными машинами. Также есть функция настройки параметров сети, хранилища для безопасности виртуальной машины в приложении пользователя. 
 
+Сопоставили сервисы с Русским Yandex:
+
+Azure SQL - Yandex Service for MySQL
+
+Azure Web Application Firewall - Yandex Virtual Private Cloud
+
+Azure Web Apps - нет аналога от Yandex
+
+Azure Operational Insights - Yandex Monitoring
+
+Azure Key Vault - Yandex Lockbox
+
+Azure Logic - нет аналога от Yandex
+
+Azure ML - Yandex DataSphere
+
+Azure AI - YandexGPT (хз пашет или нет)
+
+Azure VPN Gateway - Yandex Virtual Private Cloud
+
+Azure Virtual Network - Yandex Virtual Private Cloud
+
+Azure Traffic Manager - Yandex Virtual Private Cloud
+
+Azure Site Recovery - нет аналога от Yandex
+
+Azure SignalR - нет аналога от Yandex
+
+Azure Media Services - нет аналога от Yandex
+
+Azure IoT Hub - Yandex IoT Core
 ### Результат работы:
 Результат нашей работы представлен в виде таблицы на скрине:  
 ![Иллюстрация к проекту](https://github.com/Semen4ikk/ITMO_Cloud/raw/main/cloud_lab/Analytical%20Task%202/an4.png)
